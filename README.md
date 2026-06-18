@@ -25,10 +25,6 @@ Ambitious and detail-driven Data Analyst with hands-on experience in Python, Pow
 - KPI cards, trend charts, drill-through visuals
 - Identified top products and underperforming regions
   
-  [Sales Dashboard](images/sales-dashboard.png)
-
-  
-  
 ### Project 2: Fortune 1000 Business Intelligence Dashboard
 🛠️ Tools: Tableau, Pandas
 - Visualized financial metrics of Fortune 1000 companies
