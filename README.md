@@ -36,6 +36,7 @@ Ambitious and detail-driven Data Analyst with hands-on experience in Python, Pow
 - Prepared a structured dataset for visualization
 
   ![Fortune 1000 Dashboard](Fortune 1000 Business Intelligence Dashboard.PNG)
+  
 
   ### Project 3: HR Analytics Dashboard
 🛠️ Tools: Power BI
@@ -43,17 +44,25 @@ Ambitious and detail-driven Data Analyst with hands-on experience in Python, Pow
 - Identified key factors impacting attrition
 
   ![HR Dashboard p1](HR Analytics Dashboard p1.PNG)
+  
   ![HR Dashboard p2](HR Analytics Dashboard p2.PNG)
+  
   
 ### Project 4: Oral Cancer Prediction
 🛠️ Tools: Python, Pandas, Matplotlib, Machine Learning
 - ML model to predict oral cancer risk
 - Data preprocessing, EDA, and feature engineering
 
+  ![Oral Cancer Prediction](Oral Cancer Prediction.PNG)
+  
+
 ### Project 5: Titanic Survival Analysis
 🛠️ Tools: Python, NumPy, Pandas, Matplotlib
 - EDA on Titanic dataset
 - Analyzed survival patterns by gender, age, class
+
+  ![Titanic Survival Analysis](Titanic Survival Analysis.PNG)
+  
   
 ### Project 6: Excel-Based Sales & Profit Analysis
 🛠️ Tools: Microsoft Excel
@@ -61,11 +70,15 @@ Ambitious and detail-driven Data Analyst with hands-on experience in Python, Pow
 - Dynamic charts and weekly/monthly summaries
 
   ![Excel Sales Analysis](Excel Based Sales & Profit Analysis.PNG)
+  
 
 ### Project 7: Hospital Management System
 🛠️ Tools: PostgreSQL, SQL
 - Relational database for hospital operations
 - Complex joins, aggregations, subqueries
+
+  ![Hospital Management](Hospital Management System.PNG)
+  
 
 ## 🏆 Certification
 **Data Analytics Certification**
