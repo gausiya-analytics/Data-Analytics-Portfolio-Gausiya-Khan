@@ -48,7 +48,7 @@ Ambitious and detail-driven Data Analyst with hands-on experience in Python, Pow
 - EDA on Titanic dataset
 - Analyzed survival patterns by gender, age, class
   
-### Project 6: Excel-Based Sales Analysis
+### Project 6: Excel-Based Sales & Profit Analysis
 🛠️ Tools: Microsoft Excel
 - Pivot Tables, VLOOKUP, IF formulas
 - Dynamic charts and weekly/monthly summaries
