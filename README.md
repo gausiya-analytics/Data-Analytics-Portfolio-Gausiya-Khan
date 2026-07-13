@@ -1,7 +1,7 @@
 
 # 👩‍💻 Gausiya Khan | Data Analyst Portfolio
 
-📍 Nashik, Maharashtra, India
+📍 Buldhana, Maharashtra, India
 📞 +91 8087349525
 ✉️ gausiya.firdous@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/gausiya-firdous-khan)
